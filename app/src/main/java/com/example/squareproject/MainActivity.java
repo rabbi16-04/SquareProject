@@ -143,6 +143,8 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
+
+        // calling converter
         button_fahrenheit_to_celcius.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
